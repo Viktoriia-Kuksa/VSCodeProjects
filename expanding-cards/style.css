@@ -51,21 +51,21 @@ body {
 }
 
 .card1 {
-    background-image: url(/images/1.avif);
+    background-image: url(/expanding-cards/images/1.avif);
 }
 
 .card2 {
-    background-image: url(/images/2.avif);
+    background-image: url(/expanding-cards/images/2.avif);
 }
 
 .card3 {
-    background-image: url(/images/3.avif);
+    background-image: url(/expanding-cards/images/3.avif);
 }
 
 .card4 {
-    background-image: url(/images/4.avif);
+    background-image: url(/expanding-cards/images/4.avif);
 }
 
 .card5 {
-    background-image: url(/images/5.avif);
+    background-image: url(/expanding-cards/images/5.avif);
 }
