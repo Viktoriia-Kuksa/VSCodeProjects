@@ -12,6 +12,8 @@ This repository contains small elements designed for use on websites. These elem
 
 **Expanding Cards:** Interactive cards that expand or reveal additional content when clicked. These cards can be used to display additional information, images, or options without cluttering the main page layout.
 
+**FAQ Collapse:** FAQ Collapse is an effective UI component for organizing and presenting FAQs, providing a streamlined and user-friendly experience for website visitors and application users.
+
 **Progress Steps:** A set of progress steps designed to guide users through a multi-step process, such as signing up, completing a form, or making a purchase. These steps provide clear navigation and help users track their progress.
 
 **Rotating Navigation Animation:** An eye-catching navigation animation that adds a dynamic element to your website's navigation menu.
